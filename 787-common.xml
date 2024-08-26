@@ -4,6 +4,14 @@
 
 <PropertyList>
 
+    <instrumentation>
+        <transponder>
+            <inputs>
+                <knob-mode type="int">5</knob-mode>
+            </inputs>
+        </transponder>
+    </instrumentation>
+
     <controls>
         <gear>
             <tiller-cmd-norm type="double">0</tiller-cmd-norm>
